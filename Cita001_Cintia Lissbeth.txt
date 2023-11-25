@@ -1,0 +1,5 @@
+
+Nombre del Paciente: Cintia Lissbeth
+Fecha de Cita: 27/11/2023 09:00:00
+Razón de Consulta: Limpieza
+Costo de Consulta: 25
